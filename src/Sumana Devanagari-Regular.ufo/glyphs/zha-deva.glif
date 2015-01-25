@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zha-deva" format="1">
+  <advance width="667"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="ja-deva"/>
+    <component base="anusvara-deva" xOffset="290" yOffset="-676" xScale="0.901" yScale="0.901"/>
+    <component base="anusvara-deva" xOffset="117" yOffset="-676" xScale="0.901" yScale="0.901"/>
+    <component base="anusvara-deva" xOffset="204" yOffset="-769" xScale="0.901" yScale="0.901"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
