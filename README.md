@@ -2,8 +2,9 @@
 Sumana Devangari is a family of devanagari fonts for text setting and web usage. 
 Designed by Alexei Vanyashin in 2014-2015 for Cyreal.
 
-The Latin counterpart is derived from Lora by Olga Karpushina, Cyreal. Its vertical and horizontal metrics are adjusted
-to better match the scripts together. 
+![alt tag](Samples/Sumana.png)
+
+The Latin counterpart is derived from Lora by Olga Karpushina, Cyreal. Its vertical and horizontal metrics are adjusted to better match the scripts together. 
 
 The original name for this project was borrowed from its Latin counterpart, but later, considering the
 change in vertical metrics, the naming had to differentiate. The meaning of Sumana in Sankrit is flower, 
@@ -21,3 +22,5 @@ The comments, and revision history can be found in this thread of the GWF forum:
 https://groups.google.com/forum/#!searchin/googlefontdirectory-discuss/Lora/googlefontdirectory-discuss/UtBQ2xBlqvQ/xlM3YNOgHkEJ
 
 If you have something to add, please you the forum, or open an issue on github
+
+
