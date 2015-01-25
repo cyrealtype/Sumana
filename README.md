@@ -21,6 +21,6 @@ Pria Ravichandran, WeiH
 The comments, and revision history can be found in this thread of the GWF forum: 
 https://groups.google.com/forum/#!searchin/googlefontdirectory-discuss/Lora/googlefontdirectory-discuss/UtBQ2xBlqvQ/xlM3YNOgHkEJ
 
-If you have something to add, please you the forum, or open an issue on github
+If you have something to add, please use the forum, or open an issue on github
 
 
