@@ -7,7 +7,7 @@ Designed by Alexei Vanyashin in 2014-2015 for Cyreal.
 The Latin counterpart is derived from Lora by Olga Karpushina, Cyreal. Its vertical and horizontal metrics are adjusted to better match the scripts together. 
 
 The original name for this project was borrowed from its Latin counterpart, but later, considering the
-change in vertical metrics, the naming had to differentiate. The meaning of Sumana in Sankrit is flower, 
+change in vertical metrics, the naming had to differentiate. The meaning of Sumana in Sanskrit is flower, 
 which is identical to the meaning of Lora in Spanish. 
 
 It was quite a challenge to match the graphical characteristics of each script and took many iterations
