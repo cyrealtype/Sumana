@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ya-deva" format="1">
+  <advance width="527"/>
+  <unicode hex="092F"/>
+  <note>
+    dYa
+  </note>
+  <outline>
+    <contour>
+      <point x="125" y="522" type="line"/>
+      <point x="200" y="405"/>
+      <point x="163" y="335"/>
+      <point x="44" y="300" type="curve"/>
+      <point x="34" y="259" type="line"/>
+      <point x="122" y="103"/>
+      <point x="275" y="79"/>
+      <point x="415" y="144" type="curve"/>
+      <point x="394" y="245" type="line"/>
+      <point x="303" y="180"/>
+      <point x="154" y="169"/>
+      <point x="108" y="254" type="curve"/>
+      <point x="216" y="297"/>
+      <point x="271" y="389"/>
+      <point x="178" y="522" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-30" y="570" type="line"/>
+      <point x="-2" y="506" type="line"/>
+      <point x="557" y="506" type="line"/>
+      <point x="529" y="570" type="line"/>
+    </contour>
+    <component base="stem-deva" xOffset="26"/>
+    <contour>
+      <point x="50" y="34" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="415" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="415" y="570" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

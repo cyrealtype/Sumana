@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_dh_ya-deva" format="1">
+  <advance width="1210"/>
+  <note>
+    dDDhYa
+  </note>
+  <outline>
+    <contour>
+      <point x="1026" y="237" type="line"/>
+      <point x="964" y="148"/>
+      <point x="823" y="76"/>
+      <point x="766" y="152" type="curve"/>
+      <point x="908" y="180"/>
+      <point x="930" y="267"/>
+      <point x="899" y="332" type="curve" smooth="yes"/>
+      <point x="865" y="404"/>
+      <point x="761" y="406"/>
+      <point x="648" y="406" type="curve" smooth="yes"/>
+      <point x="421" y="406" type="line"/>
+      <point x="450" y="328" type="line"/>
+      <point x="678" y="328" type="line" smooth="yes"/>
+      <point x="766" y="328"/>
+      <point x="803" y="325"/>
+      <point x="818" y="293" type="curve" smooth="yes"/>
+      <point x="828" y="271"/>
+      <point x="828" y="214"/>
+      <point x="673" y="191" type="curve"/>
+      <point x="740" y="16"/>
+      <point x="880" y="17"/>
+      <point x="1029" y="98" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1230" y="502" type="line"/>
+      <point x="1208" y="580" type="line"/>
+      <point x="551" y="580" type="line"/>
+      <point x="574" y="502" type="line"/>
+    </contour>
+    <component base="d_dha-deva"/>
+    <component base="stem-deva" xOffset="623"/>
+    <contour>
+      <point x="1081" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1076" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
