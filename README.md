@@ -1,4 +1,4 @@
-# Sumana-Devanagari
+# Sumana
 Sumana is a family of devanagari fonts for text setting and web usage. 
 Designed by Alexei Vanyashin in 2014-2015 for Cyreal.
 
