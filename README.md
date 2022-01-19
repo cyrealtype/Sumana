@@ -2,7 +2,7 @@
 Sumana is a family of devanagari fonts for text setting and web usage. 
 Designed by Alexei Vanyashin in 2014-2015 for Cyreal.
 
-![alt tag](Samples/Sumana.png)
+![alt tag](documentation/Sumana.png)
 
 The Latin counterpart is derived from Lora by Olga Karpushina, Cyreal. Its vertical and horizontal metrics are adjusted to better match the scripts together. 
 
